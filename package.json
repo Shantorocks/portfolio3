@@ -1,4 +1,5 @@
 {
+"homepage":"https://Shantorocks.github.io/portfolio/",
   "name": "salimov-react",
   "version": "0.1.0",
   "private": true,
@@ -10,6 +11,7 @@
   },
   "dependencies": {
     "@next/font": "13.1.5",
+    "gh-pages": "^6.1.1",
     "jquery": "^3.6.3",
     "jquery-mousewheel": "^3.1.13",
     "malihu-custom-scrollbar-plugin": "^3.1.5",
